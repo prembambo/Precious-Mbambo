@@ -13,11 +13,7 @@ While I’m still learning, I’m excited to grow my skills, build meaningful pr
 
 Right now, I’m focused on:
 
-- HTML, CSS, and JavaScript basics
-- Python and Flask for backend development
-- Git and GitHub for version control
-- Data analysis with Python (beginner level)
-
+learning
 ---
 
 ## 🛠️ Portfolio Structure
