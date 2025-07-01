@@ -11,7 +11,12 @@ While I’m still learning, I’m excited to grow my skills, build meaningful pr
 ## 📚 Why I Started This Journey
 
 I love learning, solving problems, and helping others grow. My long-term goal is to combine my HR background with tech—perhaps building tools that make job hunting, onboarding, or employee engagement better.
-
+## Ask me about?
+- HR related challenges
+- CV Revamp
+- Video interview coaching (Solo interview)
+- ## What am I learning
+- everything Web Development related
 ---
 
 ## 📫 Contact Me
@@ -19,10 +24,10 @@ I love learning, solving problems, and helping others grow. My long-term goal is
 Let’s connect and grow together!
 
 - 🌐 LinkedIn: [linkedin.com/in/preciousmbambo-5aa7983b](https://linkedin.com/in/preciousmbambo-5aa7983b)  
-- 💌 Email: yourname@email.com  
--
-
----
+- 💌 Email: prembambo@gmail.com
+- click on my Youtube channel to learn more  https-m.youtube.com-hrbitsandbites-shorts
+- My website: https://sites.google.com/view/hrbitsandbites/home
+  
 
 > “I may be new to coding, but I’m not new to learning, adapting, or making an impact.” 💪  
 Let’s build something amazing, one step at a time.
