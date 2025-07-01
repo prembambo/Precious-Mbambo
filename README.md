@@ -7,25 +7,6 @@ I’m a **Junior Web Developer in training**, currently transitioning from over 
 
 While I’m still learning, I’m excited to grow my skills, build meaningful projects, and share my progress with the world.
 
----
-
-## 🧠 What I’m Learning
-
-Right now, I’m focused on:
-
-learning
----
-
-## 🛠️ Portfolio Structure
-
-This website includes:
-
-- **Home:** A short intro and invitation to explore my journey.
-- **Projects:** My learning projects and experiments—more to come as I grow!
-- **About:** My story: how I went from HR to learning code.
-- **Contact:** Let’s connect! I’m always open to advice, collaboration, or encouragement.
-
----
 
 ## 📚 Why I Started This Journey
 
