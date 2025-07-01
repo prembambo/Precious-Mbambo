@@ -15,7 +15,7 @@ I love learning, solving problems, and helping others grow. My long-term goal is
 - HR related challenges
 - CV Revamp
 - Video interview coaching (Solo interview)
-- ## What am I learning
+- # What am I learning?
 - everything Web Development related
 ---
 
